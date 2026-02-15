@@ -8,11 +8,11 @@ Provides optional text-to-speech output
 
 Deployed live on Hugging Face Spaces
 
-🔗 Live Demo
+ Live Demo
 
 https://huggingface.co/spaces/siva-vision2022/multilingual-image-captioning
 
-🧠 Tech Stack
+ Tech Stack
 
 Python
 
@@ -26,7 +26,7 @@ NLLB
 
 Gradio
 
-👥 Team Members
+ Team Members
 
 Siva S
 
@@ -35,3 +35,4 @@ Monishma M
 Jeeva N
 
 Srikanth J
+
